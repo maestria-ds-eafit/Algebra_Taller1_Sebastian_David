@@ -10,6 +10,7 @@ opencv-python = "*"
 sklearn = "*"
 scikit-learn = "*"
 seaborn = "*"
+scipy = "*"
 
 [dev-packages]
 ipykernel = "*"
