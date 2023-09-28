@@ -11,6 +11,11 @@ sklearn = "*"
 scikit-learn = "*"
 seaborn = "*"
 scipy = "*"
+openai = "*"
+pypdf2 = "*"
+nltk = "*"
+gensim = "*"
+python-levenshtein = "*"
 
 [dev-packages]
 ipykernel = "*"
